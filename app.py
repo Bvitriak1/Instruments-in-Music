@@ -23,7 +23,7 @@ instrument_icons = {
    'Трубка': 'fa-volume-up',
     'Флейта': 'fa-flute',
     'Клавишные': 'fa-keyboard',
-    'Виолончель': 'fa-cello'
+    'Виолончель': 'fa-music'
 }
 
 @app.route("/", methods=["GET", "POST"])
